@@ -4,7 +4,7 @@
     {
         public Cat()
         {
-            tame = true;
+            name = "Kattenavn";
         }
     }
 }
